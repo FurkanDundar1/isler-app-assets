@@ -1,0 +1,3507 @@
+{
+  "publisher": "denemedeposu",
+  "pdfDocuments": [
+    {
+      "fileName": "AYT TG-A-9.2.26.pdf",
+      "pdfUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TG-A-9.2.26.pdf"
+    },
+    {
+      "fileName": "TYT TG-A-05.02.26.pdf",
+      "pdfUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT TG-A-05.02.26.pdf"
+    }
+  ],
+  "videos": [
+    {
+      "id": "denemedeposu_1",
+      "lesson": "AYT FEN",
+      "questionNo": 1,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-01.mp4",
+      "kazanimCode": "AYT FEN-K1",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_2",
+      "lesson": "AYT FEN",
+      "questionNo": 2,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-02.mp4",
+      "kazanimCode": "AYT FEN-K2",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_3",
+      "lesson": "AYT FEN",
+      "questionNo": 3,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-03.mp4",
+      "kazanimCode": "AYT FEN-K3",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_4",
+      "lesson": "AYT FEN",
+      "questionNo": 4,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-04.mp4",
+      "kazanimCode": "AYT FEN-K4",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_5",
+      "lesson": "AYT FEN",
+      "questionNo": 5,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-05.mp4",
+      "kazanimCode": "AYT FEN-K5",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_6",
+      "lesson": "AYT FEN",
+      "questionNo": 6,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-06.mp4",
+      "kazanimCode": "AYT FEN-K6",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_7",
+      "lesson": "AYT FEN",
+      "questionNo": 7,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-07.mp4",
+      "kazanimCode": "AYT FEN-K7",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_8",
+      "lesson": "AYT FEN",
+      "questionNo": 8,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-08.mp4",
+      "kazanimCode": "AYT FEN-K8",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_9",
+      "lesson": "AYT FEN",
+      "questionNo": 9,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-09.mp4",
+      "kazanimCode": "AYT FEN-K9",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_10",
+      "lesson": "AYT FEN",
+      "questionNo": 10,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-10.mp4",
+      "kazanimCode": "AYT FEN-K10",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_11",
+      "lesson": "AYT FEN",
+      "questionNo": 11,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-11.mp4",
+      "kazanimCode": "AYT FEN-K11",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_12",
+      "lesson": "AYT FEN",
+      "questionNo": 12,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-12.mp4",
+      "kazanimCode": "AYT FEN-K12",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_13",
+      "lesson": "AYT FEN",
+      "questionNo": 13,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-13.mp4",
+      "kazanimCode": "AYT FEN-K13",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_14",
+      "lesson": "AYT FEN",
+      "questionNo": 14,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-14.mp4",
+      "kazanimCode": "AYT FEN-K14",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_15",
+      "lesson": "AYT FEN",
+      "questionNo": 15,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-15.mp4",
+      "kazanimCode": "AYT FEN-K15",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_16",
+      "lesson": "AYT FEN",
+      "questionNo": 16,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-16.mp4",
+      "kazanimCode": "AYT FEN-K16",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_17",
+      "lesson": "AYT FEN",
+      "questionNo": 17,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-17.mp4",
+      "kazanimCode": "AYT FEN-K17",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_18",
+      "lesson": "AYT FEN",
+      "questionNo": 18,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-18.mp4",
+      "kazanimCode": "AYT FEN-K18",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_19",
+      "lesson": "AYT FEN",
+      "questionNo": 19,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-19.mp4",
+      "kazanimCode": "AYT FEN-K19",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_20",
+      "lesson": "AYT FEN",
+      "questionNo": 20,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-20.mp4",
+      "kazanimCode": "AYT FEN-K20",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_21",
+      "lesson": "AYT FEN",
+      "questionNo": 21,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-21.mp4",
+      "kazanimCode": "AYT FEN-K21",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_22",
+      "lesson": "AYT FEN",
+      "questionNo": 22,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-22.mp4",
+      "kazanimCode": "AYT FEN-K22",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_23",
+      "lesson": "AYT FEN",
+      "questionNo": 23,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-23.mp4",
+      "kazanimCode": "AYT FEN-K23",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_24",
+      "lesson": "AYT FEN",
+      "questionNo": 24,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-24.mp4",
+      "kazanimCode": "AYT FEN-K24",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_25",
+      "lesson": "AYT FEN",
+      "questionNo": 25,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-25.mp4",
+      "kazanimCode": "AYT FEN-K25",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_26",
+      "lesson": "AYT FEN",
+      "questionNo": 26,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-26.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-26.mp4",
+      "kazanimCode": "AYT FEN-K26",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_27",
+      "lesson": "AYT FEN",
+      "questionNo": 27,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-27.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-27.mp4",
+      "kazanimCode": "AYT FEN-K27",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_28",
+      "lesson": "AYT FEN",
+      "questionNo": 28,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-28.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-28.mp4",
+      "kazanimCode": "AYT FEN-K28",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_29",
+      "lesson": "AYT FEN",
+      "questionNo": 29,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-29.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-29.mp4",
+      "kazanimCode": "AYT FEN-K29",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_30",
+      "lesson": "AYT FEN",
+      "questionNo": 30,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-30.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-30.mp4",
+      "kazanimCode": "AYT FEN-K30",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_31",
+      "lesson": "AYT FEN",
+      "questionNo": 31,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-31.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-31.mp4",
+      "kazanimCode": "AYT FEN-K31",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_32",
+      "lesson": "AYT FEN",
+      "questionNo": 32,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-32.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-32.mp4",
+      "kazanimCode": "AYT FEN-K32",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_33",
+      "lesson": "AYT FEN",
+      "questionNo": 33,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-33.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-33.mp4",
+      "kazanimCode": "AYT FEN-K33",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_34",
+      "lesson": "AYT FEN",
+      "questionNo": 34,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-34.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-34.mp4",
+      "kazanimCode": "AYT FEN-K34",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_35",
+      "lesson": "AYT FEN",
+      "questionNo": 35,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-35.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-35.mp4",
+      "kazanimCode": "AYT FEN-K35",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_36",
+      "lesson": "AYT FEN",
+      "questionNo": 36,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-36.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-36.mp4",
+      "kazanimCode": "AYT FEN-K36",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_37",
+      "lesson": "AYT FEN",
+      "questionNo": 37,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-37.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-37.mp4",
+      "kazanimCode": "AYT FEN-K37",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_38",
+      "lesson": "AYT FEN",
+      "questionNo": 38,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-38.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-38.mp4",
+      "kazanimCode": "AYT FEN-K38",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_39",
+      "lesson": "AYT FEN",
+      "questionNo": 39,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-39.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-39.mp4",
+      "kazanimCode": "AYT FEN-K39",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_40",
+      "lesson": "AYT FEN",
+      "questionNo": 40,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-fen-tg-2025-40.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Fen/acil-ayt-fen-tg-2025-40.mp4",
+      "kazanimCode": "AYT FEN-K40",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_41",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 41,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-01.mp4",
+      "kazanimCode": "AYT MATEMATIK-K41",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_42",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 42,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-02.mp4",
+      "kazanimCode": "AYT MATEMATIK-K42",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_43",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 43,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-03.mp4",
+      "kazanimCode": "AYT MATEMATIK-K43",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_44",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 44,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-04.mp4",
+      "kazanimCode": "AYT MATEMATIK-K44",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_45",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 45,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-05.mp4",
+      "kazanimCode": "AYT MATEMATIK-K45",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_46",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 46,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-06.mp4",
+      "kazanimCode": "AYT MATEMATIK-K46",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_47",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 47,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-07.mp4",
+      "kazanimCode": "AYT MATEMATIK-K47",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_48",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 48,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-08.mp4",
+      "kazanimCode": "AYT MATEMATIK-K48",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_49",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 49,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-09.mp4",
+      "kazanimCode": "AYT MATEMATIK-K49",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_50",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 50,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-10.mp4",
+      "kazanimCode": "AYT MATEMATIK-K50",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_51",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 51,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-11.mp4",
+      "kazanimCode": "AYT MATEMATIK-K51",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_52",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 52,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-12.mp4",
+      "kazanimCode": "AYT MATEMATIK-K52",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_53",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 53,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-13.mp4",
+      "kazanimCode": "AYT MATEMATIK-K53",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_54",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 54,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-14.mp4",
+      "kazanimCode": "AYT MATEMATIK-K54",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_55",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 55,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-15.mp4",
+      "kazanimCode": "AYT MATEMATIK-K55",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_56",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 56,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-16.mp4",
+      "kazanimCode": "AYT MATEMATIK-K56",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_57",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 57,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-17.mp4",
+      "kazanimCode": "AYT MATEMATIK-K57",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_58",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 58,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-18.mp4",
+      "kazanimCode": "AYT MATEMATIK-K58",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_59",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 59,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-19.mp4",
+      "kazanimCode": "AYT MATEMATIK-K59",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_60",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 60,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-20.mp4",
+      "kazanimCode": "AYT MATEMATIK-K60",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_61",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 61,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-21.mp4",
+      "kazanimCode": "AYT MATEMATIK-K61",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_62",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 62,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-22.mp4",
+      "kazanimCode": "AYT MATEMATIK-K62",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_63",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 63,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-23.mp4",
+      "kazanimCode": "AYT MATEMATIK-K63",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_64",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 64,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-24.mp4",
+      "kazanimCode": "AYT MATEMATIK-K64",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_65",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 65,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-25.mp4",
+      "kazanimCode": "AYT MATEMATIK-K65",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_66",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 66,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-26.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-26.mp4",
+      "kazanimCode": "AYT MATEMATIK-K66",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_67",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 67,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-27.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-27.mp4",
+      "kazanimCode": "AYT MATEMATIK-K67",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_68",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 68,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-28.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-28.mp4",
+      "kazanimCode": "AYT MATEMATIK-K68",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_69",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 69,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-29.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-29.mp4",
+      "kazanimCode": "AYT MATEMATIK-K69",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_70",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 70,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-30.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-30.mp4",
+      "kazanimCode": "AYT MATEMATIK-K70",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_71",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 71,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-31.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-31.mp4",
+      "kazanimCode": "AYT MATEMATIK-K71",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_72",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 72,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-32.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-32.mp4",
+      "kazanimCode": "AYT MATEMATIK-K72",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_73",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 73,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-33.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-33.mp4",
+      "kazanimCode": "AYT MATEMATIK-K73",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_74",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 74,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-34.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-34.mp4",
+      "kazanimCode": "AYT MATEMATIK-K74",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_75",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 75,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-35.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-35.mp4",
+      "kazanimCode": "AYT MATEMATIK-K75",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_76",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 76,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-36.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-36.mp4",
+      "kazanimCode": "AYT MATEMATIK-K76",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_77",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 77,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-37.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-37.mp4",
+      "kazanimCode": "AYT MATEMATIK-K77",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_78",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 78,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-38.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-38.mp4",
+      "kazanimCode": "AYT MATEMATIK-K78",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_79",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 79,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-39.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-39.mp4",
+      "kazanimCode": "AYT MATEMATIK-K79",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_80",
+      "lesson": "AYT MATEMATIK",
+      "questionNo": 80,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-matematik-tg-2025-40.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Matematik/acil-ayt-matematik-tg-2025-40.mp4",
+      "kazanimCode": "AYT MATEMATIK-K80",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_81",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 81,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-01.mp4",
+      "kazanimCode": "AYT SOSYAL-K81",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_82",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 82,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-02.mp4",
+      "kazanimCode": "AYT SOSYAL-K82",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_83",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 83,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-03.mp4",
+      "kazanimCode": "AYT SOSYAL-K83",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_84",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 84,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-04.mp4",
+      "kazanimCode": "AYT SOSYAL-K84",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_85",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 85,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-05.mp4",
+      "kazanimCode": "AYT SOSYAL-K85",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_86",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 86,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-06.mp4",
+      "kazanimCode": "AYT SOSYAL-K86",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_87",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 87,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-07.mp4",
+      "kazanimCode": "AYT SOSYAL-K87",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_88",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 88,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-08.mp4",
+      "kazanimCode": "AYT SOSYAL-K88",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_89",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 89,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-09.mp4",
+      "kazanimCode": "AYT SOSYAL-K89",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_90",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 90,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-10.mp4",
+      "kazanimCode": "AYT SOSYAL-K90",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_91",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 91,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-11.mp4",
+      "kazanimCode": "AYT SOSYAL-K91",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_92",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 92,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-12.mp4",
+      "kazanimCode": "AYT SOSYAL-K92",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_93",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 93,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-13.mp4",
+      "kazanimCode": "AYT SOSYAL-K93",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_94",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 94,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-14.mp4",
+      "kazanimCode": "AYT SOSYAL-K94",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_95",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 95,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-15.mp4",
+      "kazanimCode": "AYT SOSYAL-K95",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_96",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 96,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-16.mp4",
+      "kazanimCode": "AYT SOSYAL-K96",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_97",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 97,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-17.mp4",
+      "kazanimCode": "AYT SOSYAL-K97",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_98",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 98,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-18.mp4",
+      "kazanimCode": "AYT SOSYAL-K98",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_99",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 99,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-19.mp4",
+      "kazanimCode": "AYT SOSYAL-K99",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_100",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 100,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-20.mp4",
+      "kazanimCode": "AYT SOSYAL-K100",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_101",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 101,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-21.mp4",
+      "kazanimCode": "AYT SOSYAL-K101",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_102",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 102,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-22.mp4",
+      "kazanimCode": "AYT SOSYAL-K102",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_103",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 103,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-23.mp4",
+      "kazanimCode": "AYT SOSYAL-K103",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_104",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 104,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-24.mp4",
+      "kazanimCode": "AYT SOSYAL-K104",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_105",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 105,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-25.mp4",
+      "kazanimCode": "AYT SOSYAL-K105",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_106",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 106,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-26.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-26.mp4",
+      "kazanimCode": "AYT SOSYAL-K106",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_107",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 107,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-27.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-27.mp4",
+      "kazanimCode": "AYT SOSYAL-K107",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_108",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 108,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-28.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-28.mp4",
+      "kazanimCode": "AYT SOSYAL-K108",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_109",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 109,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-29.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-29.mp4",
+      "kazanimCode": "AYT SOSYAL-K109",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_110",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 110,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-30.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-30.mp4",
+      "kazanimCode": "AYT SOSYAL-K110",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_111",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 111,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-31.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-31.mp4",
+      "kazanimCode": "AYT SOSYAL-K111",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_112",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 112,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-32.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-32.mp4",
+      "kazanimCode": "AYT SOSYAL-K112",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_113",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 113,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-33.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-33.mp4",
+      "kazanimCode": "AYT SOSYAL-K113",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_114",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 114,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-34.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-34.mp4",
+      "kazanimCode": "AYT SOSYAL-K114",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_115",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 115,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-35.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-35.mp4",
+      "kazanimCode": "AYT SOSYAL-K115",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_116",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 116,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-36.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-36.mp4",
+      "kazanimCode": "AYT SOSYAL-K116",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_117",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 117,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-37.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-37.mp4",
+      "kazanimCode": "AYT SOSYAL-K117",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_118",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 118,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-38.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-38.mp4",
+      "kazanimCode": "AYT SOSYAL-K118",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_119",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 119,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-39.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-39.mp4",
+      "kazanimCode": "AYT SOSYAL-K119",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_120",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 120,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-40.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-40.mp4",
+      "kazanimCode": "AYT SOSYAL-K120",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_121",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 121,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-41.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-41.mp4",
+      "kazanimCode": "AYT SOSYAL-K121",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_122",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 122,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-42.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-42.mp4",
+      "kazanimCode": "AYT SOSYAL-K122",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_123",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 123,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-43.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-43.mp4",
+      "kazanimCode": "AYT SOSYAL-K123",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_124",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 124,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-44.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-44.mp4",
+      "kazanimCode": "AYT SOSYAL-K124",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_125",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 125,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-45.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-45.mp4",
+      "kazanimCode": "AYT SOSYAL-K125",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_126",
+      "lesson": "AYT SOSYAL",
+      "questionNo": 126,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-sosyal-tg-2025-46.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT Sosyal/acil-ayt-sosyal-tg-2025-46.mp4",
+      "kazanimCode": "AYT SOSYAL-K126",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_127",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 127,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-01.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K127",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_128",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 128,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-02.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K128",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_129",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 129,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-03.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K129",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_130",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 130,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-04.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K130",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_131",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 131,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-05.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K131",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_132",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 132,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-06.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K132",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_133",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 133,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-07.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K133",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_134",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 134,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-08.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K134",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_135",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 135,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-09.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K135",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_136",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 136,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-10.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K136",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_137",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 137,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-11.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K137",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_138",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 138,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-12.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K138",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_139",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 139,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-13.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K139",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_140",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 140,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-14.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K140",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_141",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 141,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-15.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K141",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_142",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 142,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-16.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K142",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_143",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 143,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-17.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K143",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_144",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 144,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-18.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K144",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_145",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 145,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-19.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K145",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_146",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 146,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-20.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K146",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_147",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 147,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-21.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K147",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_148",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 148,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-22.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K148",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_149",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 149,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-23.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K149",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_150",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 150,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-24.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K150",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_151",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 151,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-25.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K151",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_152",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 152,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-26.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-26.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K152",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_153",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 153,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-27.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-27.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K153",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_154",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 154,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-28.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-28.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K154",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_155",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 155,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-29.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-29.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K155",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_156",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 156,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-30.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-30.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K156",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_157",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 157,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-31.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-31.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K157",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_158",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 158,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-32.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-32.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K158",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_159",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 159,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-33.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-33.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K159",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_160",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 160,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-34.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-34.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K160",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_161",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 161,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-35.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-35.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K161",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_162",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 162,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-36.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-36.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K162",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_163",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 163,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-37.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-37.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K163",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_164",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 164,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-38.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-38.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K164",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_165",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 165,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-39.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-39.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K165",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_166",
+      "lesson": "AYT TDESOSYAL",
+      "questionNo": 166,
+      "answerKey": "",
+      "videoFileName": "acil-ayt-tdesosyal-tg-2025-40.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/AYT TDESosyal/acil-ayt-tdesosyal-tg-2025-40.mp4",
+      "kazanimCode": "AYT TDESOSYAL-K166",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_167",
+      "lesson": "TYT FEN",
+      "questionNo": 167,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-01.mp4",
+      "kazanimCode": "TYT FEN-K167",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_168",
+      "lesson": "TYT FEN",
+      "questionNo": 168,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-02.mp4",
+      "kazanimCode": "TYT FEN-K168",
+      "kazanimlar": [
+        ""
+      ]
+    },
+    {
+      "id": "denemedeposu_169",
+      "lesson": "TYT FEN",
+      "questionNo": 169,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-03.mp4",
+      "kazanimCode": "TYT FEN-K169",
+      "kazanimlar": [
+        "Tyt fen Soru 169 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_170",
+      "lesson": "TYT FEN",
+      "questionNo": 170,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-04.mp4",
+      "kazanimCode": "TYT FEN-K170",
+      "kazanimlar": [
+        "Tyt fen Soru 170 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_171",
+      "lesson": "TYT FEN",
+      "questionNo": 171,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-05.mp4",
+      "kazanimCode": "TYT FEN-K171",
+      "kazanimlar": [
+        "Tyt fen Soru 171 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_172",
+      "lesson": "TYT FEN",
+      "questionNo": 172,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-06.mp4",
+      "kazanimCode": "TYT FEN-K172",
+      "kazanimlar": [
+        "Tyt fen Soru 172 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_173",
+      "lesson": "TYT FEN",
+      "questionNo": 173,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-07.mp4",
+      "kazanimCode": "TYT FEN-K173",
+      "kazanimlar": [
+        "Tyt fen Soru 173 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_174",
+      "lesson": "TYT FEN",
+      "questionNo": 174,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-08.mp4",
+      "kazanimCode": "TYT FEN-K174",
+      "kazanimlar": [
+        "Tyt fen Soru 174 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_175",
+      "lesson": "TYT FEN",
+      "questionNo": 175,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-09.mp4",
+      "kazanimCode": "TYT FEN-K175",
+      "kazanimlar": [
+        "Tyt fen Soru 175 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_176",
+      "lesson": "TYT FEN",
+      "questionNo": 176,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-10.mp4",
+      "kazanimCode": "TYT FEN-K176",
+      "kazanimlar": [
+        "Tyt fen Soru 176 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_177",
+      "lesson": "TYT FEN",
+      "questionNo": 177,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-11.mp4",
+      "kazanimCode": "TYT FEN-K177",
+      "kazanimlar": [
+        "Tyt fen Soru 177 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_178",
+      "lesson": "TYT FEN",
+      "questionNo": 178,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-12.mp4",
+      "kazanimCode": "TYT FEN-K178",
+      "kazanimlar": [
+        "Tyt fen Soru 178 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_179",
+      "lesson": "TYT FEN",
+      "questionNo": 179,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-13.mp4",
+      "kazanimCode": "TYT FEN-K179",
+      "kazanimlar": [
+        "Tyt fen Soru 179 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_180",
+      "lesson": "TYT FEN",
+      "questionNo": 180,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-14.mp4",
+      "kazanimCode": "TYT FEN-K180",
+      "kazanimlar": [
+        "Tyt fen Soru 180 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_181",
+      "lesson": "TYT FEN",
+      "questionNo": 181,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-15.mp4",
+      "kazanimCode": "TYT FEN-K181",
+      "kazanimlar": [
+        "Tyt fen Soru 181 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_182",
+      "lesson": "TYT FEN",
+      "questionNo": 182,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-16.mp4",
+      "kazanimCode": "TYT FEN-K182",
+      "kazanimlar": [
+        "Tyt fen Soru 182 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_183",
+      "lesson": "TYT FEN",
+      "questionNo": 183,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-17.mp4",
+      "kazanimCode": "TYT FEN-K183",
+      "kazanimlar": [
+        "Tyt fen Soru 183 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_184",
+      "lesson": "TYT FEN",
+      "questionNo": 184,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-18.mp4",
+      "kazanimCode": "TYT FEN-K184",
+      "kazanimlar": [
+        "Tyt fen Soru 184 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_185",
+      "lesson": "TYT FEN",
+      "questionNo": 185,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-19.mp4",
+      "kazanimCode": "TYT FEN-K185",
+      "kazanimlar": [
+        "Tyt fen Soru 185 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_186",
+      "lesson": "TYT FEN",
+      "questionNo": 186,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-fen-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Fen/acil-tyt-fen-tg-2025-20.mp4",
+      "kazanimCode": "TYT FEN-K186",
+      "kazanimlar": [
+        "Tyt fen Soru 186 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_187",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 187,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-01.mp4",
+      "kazanimCode": "TYT MATEMATIK-K187",
+      "kazanimlar": [
+        "Tyt matematik Soru 187 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_188",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 188,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-02.mp4",
+      "kazanimCode": "TYT MATEMATIK-K188",
+      "kazanimlar": [
+        "Tyt matematik Soru 188 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_189",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 189,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-03.mp4",
+      "kazanimCode": "TYT MATEMATIK-K189",
+      "kazanimlar": [
+        "Tyt matematik Soru 189 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_190",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 190,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-04.mp4",
+      "kazanimCode": "TYT MATEMATIK-K190",
+      "kazanimlar": [
+        "Tyt matematik Soru 190 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_191",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 191,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-05.mp4",
+      "kazanimCode": "TYT MATEMATIK-K191",
+      "kazanimlar": [
+        "Tyt matematik Soru 191 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_192",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 192,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-06.mp4",
+      "kazanimCode": "TYT MATEMATIK-K192",
+      "kazanimlar": [
+        "Tyt matematik Soru 192 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_193",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 193,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-07.mp4",
+      "kazanimCode": "TYT MATEMATIK-K193",
+      "kazanimlar": [
+        "Tyt matematik Soru 193 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_194",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 194,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-08.mp4",
+      "kazanimCode": "TYT MATEMATIK-K194",
+      "kazanimlar": [
+        "Tyt matematik Soru 194 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_195",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 195,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-09.mp4",
+      "kazanimCode": "TYT MATEMATIK-K195",
+      "kazanimlar": [
+        "Tyt matematik Soru 195 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_196",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 196,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-10.mp4",
+      "kazanimCode": "TYT MATEMATIK-K196",
+      "kazanimlar": [
+        "Tyt matematik Soru 196 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_197",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 197,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-11.mp4",
+      "kazanimCode": "TYT MATEMATIK-K197",
+      "kazanimlar": [
+        "Tyt matematik Soru 197 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_198",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 198,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-12.mp4",
+      "kazanimCode": "TYT MATEMATIK-K198",
+      "kazanimlar": [
+        "Tyt matematik Soru 198 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_199",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 199,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-13.mp4",
+      "kazanimCode": "TYT MATEMATIK-K199",
+      "kazanimlar": [
+        "Tyt matematik Soru 199 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_200",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 200,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-14.mp4",
+      "kazanimCode": "TYT MATEMATIK-K200",
+      "kazanimlar": [
+        "Tyt matematik Soru 200 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_201",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 201,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-15.mp4",
+      "kazanimCode": "TYT MATEMATIK-K201",
+      "kazanimlar": [
+        "Tyt matematik Soru 201 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_202",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 202,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-16.mp4",
+      "kazanimCode": "TYT MATEMATIK-K202",
+      "kazanimlar": [
+        "Tyt matematik Soru 202 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_203",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 203,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-17.mp4",
+      "kazanimCode": "TYT MATEMATIK-K203",
+      "kazanimlar": [
+        "Tyt matematik Soru 203 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_204",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 204,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-18.mp4",
+      "kazanimCode": "TYT MATEMATIK-K204",
+      "kazanimlar": [
+        "Tyt matematik Soru 204 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_205",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 205,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-19.mp4",
+      "kazanimCode": "TYT MATEMATIK-K205",
+      "kazanimlar": [
+        "Tyt matematik Soru 205 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_206",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 206,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-20.mp4",
+      "kazanimCode": "TYT MATEMATIK-K206",
+      "kazanimlar": [
+        "Tyt matematik Soru 206 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_207",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 207,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-21.mp4",
+      "kazanimCode": "TYT MATEMATIK-K207",
+      "kazanimlar": [
+        "Tyt matematik Soru 207 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_208",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 208,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-22.mp4",
+      "kazanimCode": "TYT MATEMATIK-K208",
+      "kazanimlar": [
+        "Tyt matematik Soru 208 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_209",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 209,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-23.mp4",
+      "kazanimCode": "TYT MATEMATIK-K209",
+      "kazanimlar": [
+        "Tyt matematik Soru 209 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_210",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 210,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-24.mp4",
+      "kazanimCode": "TYT MATEMATIK-K210",
+      "kazanimlar": [
+        "Tyt matematik Soru 210 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_211",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 211,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-25.mp4",
+      "kazanimCode": "TYT MATEMATIK-K211",
+      "kazanimlar": [
+        "Tyt matematik Soru 211 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_212",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 212,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-26.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-26.mp4",
+      "kazanimCode": "TYT MATEMATIK-K212",
+      "kazanimlar": [
+        "Tyt matematik Soru 212 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_213",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 213,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-27.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-27.mp4",
+      "kazanimCode": "TYT MATEMATIK-K213",
+      "kazanimlar": [
+        "Tyt matematik Soru 213 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_214",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 214,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-28.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-28.mp4",
+      "kazanimCode": "TYT MATEMATIK-K214",
+      "kazanimlar": [
+        "Tyt matematik Soru 214 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_215",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 215,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-29.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-29.mp4",
+      "kazanimCode": "TYT MATEMATIK-K215",
+      "kazanimlar": [
+        "Tyt matematik Soru 215 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_216",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 216,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-30.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-30.mp4",
+      "kazanimCode": "TYT MATEMATIK-K216",
+      "kazanimlar": [
+        "Tyt matematik Soru 216 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_217",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 217,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-31.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-31.mp4",
+      "kazanimCode": "TYT MATEMATIK-K217",
+      "kazanimlar": [
+        "Tyt matematik Soru 217 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_218",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 218,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-32.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-32.mp4",
+      "kazanimCode": "TYT MATEMATIK-K218",
+      "kazanimlar": [
+        "Tyt matematik Soru 218 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_219",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 219,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-33.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-33.mp4",
+      "kazanimCode": "TYT MATEMATIK-K219",
+      "kazanimlar": [
+        "Tyt matematik Soru 219 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_220",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 220,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-34.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-34.mp4",
+      "kazanimCode": "TYT MATEMATIK-K220",
+      "kazanimlar": [
+        "Tyt matematik Soru 220 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_221",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 221,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-35.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-35.mp4",
+      "kazanimCode": "TYT MATEMATIK-K221",
+      "kazanimlar": [
+        "Tyt matematik Soru 221 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_222",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 222,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-36.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-36.mp4",
+      "kazanimCode": "TYT MATEMATIK-K222",
+      "kazanimlar": [
+        "Tyt matematik Soru 222 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_223",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 223,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-37.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-37.mp4",
+      "kazanimCode": "TYT MATEMATIK-K223",
+      "kazanimlar": [
+        "Tyt matematik Soru 223 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_224",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 224,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-38.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-38.mp4",
+      "kazanimCode": "TYT MATEMATIK-K224",
+      "kazanimlar": [
+        "Tyt matematik Soru 224 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_225",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 225,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-39.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-39.mp4",
+      "kazanimCode": "TYT MATEMATIK-K225",
+      "kazanimlar": [
+        "Tyt matematik Soru 225 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_226",
+      "lesson": "TYT MATEMATIK",
+      "questionNo": 226,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-matematik-tg-2025-40.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Matematik/acil-tyt-matematik-tg-2025-40.mp4",
+      "kazanimCode": "TYT MATEMATIK-K226",
+      "kazanimlar": [
+        "Tyt matematik Soru 226 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_227",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 227,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-01.mp4",
+      "kazanimCode": "TYT SOSYAL-K227",
+      "kazanimlar": [
+        "Tyt sosyal Soru 227 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_228",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 228,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-02.mp4",
+      "kazanimCode": "TYT SOSYAL-K228",
+      "kazanimlar": [
+        "Tyt sosyal Soru 228 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_229",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 229,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-03.mp4",
+      "kazanimCode": "TYT SOSYAL-K229",
+      "kazanimlar": [
+        "Tyt sosyal Soru 229 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_230",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 230,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-04.mp4",
+      "kazanimCode": "TYT SOSYAL-K230",
+      "kazanimlar": [
+        "Tyt sosyal Soru 230 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_231",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 231,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-05.mp4",
+      "kazanimCode": "TYT SOSYAL-K231",
+      "kazanimlar": [
+        "Tyt sosyal Soru 231 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_232",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 232,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-06.mp4",
+      "kazanimCode": "TYT SOSYAL-K232",
+      "kazanimlar": [
+        "Tyt sosyal Soru 232 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_233",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 233,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-07.mp4",
+      "kazanimCode": "TYT SOSYAL-K233",
+      "kazanimlar": [
+        "Tyt sosyal Soru 233 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_234",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 234,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-08.mp4",
+      "kazanimCode": "TYT SOSYAL-K234",
+      "kazanimlar": [
+        "Tyt sosyal Soru 234 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_235",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 235,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-09.mp4",
+      "kazanimCode": "TYT SOSYAL-K235",
+      "kazanimlar": [
+        "Tyt sosyal Soru 235 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_236",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 236,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-10.mp4",
+      "kazanimCode": "TYT SOSYAL-K236",
+      "kazanimlar": [
+        "Tyt sosyal Soru 236 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_237",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 237,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-11.mp4",
+      "kazanimCode": "TYT SOSYAL-K237",
+      "kazanimlar": [
+        "Tyt sosyal Soru 237 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_238",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 238,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-12.mp4",
+      "kazanimCode": "TYT SOSYAL-K238",
+      "kazanimlar": [
+        "Tyt sosyal Soru 238 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_239",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 239,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-13.mp4",
+      "kazanimCode": "TYT SOSYAL-K239",
+      "kazanimlar": [
+        "Tyt sosyal Soru 239 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_240",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 240,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-14.mp4",
+      "kazanimCode": "TYT SOSYAL-K240",
+      "kazanimlar": [
+        "Tyt sosyal Soru 240 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_241",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 241,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-15.mp4",
+      "kazanimCode": "TYT SOSYAL-K241",
+      "kazanimlar": [
+        "Tyt sosyal Soru 241 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_242",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 242,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-16.mp4",
+      "kazanimCode": "TYT SOSYAL-K242",
+      "kazanimlar": [
+        "Tyt sosyal Soru 242 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_243",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 243,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-17.mp4",
+      "kazanimCode": "TYT SOSYAL-K243",
+      "kazanimlar": [
+        "Tyt sosyal Soru 243 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_244",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 244,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-18.mp4",
+      "kazanimCode": "TYT SOSYAL-K244",
+      "kazanimlar": [
+        "Tyt sosyal Soru 244 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_245",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 245,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-19.mp4",
+      "kazanimCode": "TYT SOSYAL-K245",
+      "kazanimlar": [
+        "Tyt sosyal Soru 245 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_246",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 246,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-20.mp4",
+      "kazanimCode": "TYT SOSYAL-K246",
+      "kazanimlar": [
+        "Tyt sosyal Soru 246 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_247",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 247,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-21.mp4",
+      "kazanimCode": "TYT SOSYAL-K247",
+      "kazanimlar": [
+        "Tyt sosyal Soru 247 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_248",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 248,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-22.mp4",
+      "kazanimCode": "TYT SOSYAL-K248",
+      "kazanimlar": [
+        "Tyt sosyal Soru 248 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_249",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 249,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-23.mp4",
+      "kazanimCode": "TYT SOSYAL-K249",
+      "kazanimlar": [
+        "Tyt sosyal Soru 249 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_250",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 250,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-24.mp4",
+      "kazanimCode": "TYT SOSYAL-K250",
+      "kazanimlar": [
+        "Tyt sosyal Soru 250 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_251",
+      "lesson": "TYT SOSYAL",
+      "questionNo": 251,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-sosyal-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Sosyal/acil-tyt-sosyal-tg-2025-25.mp4",
+      "kazanimCode": "TYT SOSYAL-K251",
+      "kazanimlar": [
+        "Tyt sosyal Soru 251 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_252",
+      "lesson": "TYT TURKCE",
+      "questionNo": 252,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-01.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-01.mp4",
+      "kazanimCode": "TYT TURKCE-K252",
+      "kazanimlar": [
+        "Tyt turkce Soru 252 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_253",
+      "lesson": "TYT TURKCE",
+      "questionNo": 253,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-02.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-02.mp4",
+      "kazanimCode": "TYT TURKCE-K253",
+      "kazanimlar": [
+        "Tyt turkce Soru 253 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_254",
+      "lesson": "TYT TURKCE",
+      "questionNo": 254,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-03.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-03.mp4",
+      "kazanimCode": "TYT TURKCE-K254",
+      "kazanimlar": [
+        "Tyt turkce Soru 254 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_255",
+      "lesson": "TYT TURKCE",
+      "questionNo": 255,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-04.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-04.mp4",
+      "kazanimCode": "TYT TURKCE-K255",
+      "kazanimlar": [
+        "Tyt turkce Soru 255 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_256",
+      "lesson": "TYT TURKCE",
+      "questionNo": 256,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-05.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-05.mp4",
+      "kazanimCode": "TYT TURKCE-K256",
+      "kazanimlar": [
+        "Tyt turkce Soru 256 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_257",
+      "lesson": "TYT TURKCE",
+      "questionNo": 257,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-06.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-06.mp4",
+      "kazanimCode": "TYT TURKCE-K257",
+      "kazanimlar": [
+        "Tyt turkce Soru 257 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_258",
+      "lesson": "TYT TURKCE",
+      "questionNo": 258,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-07.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-07.mp4",
+      "kazanimCode": "TYT TURKCE-K258",
+      "kazanimlar": [
+        "Tyt turkce Soru 258 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_259",
+      "lesson": "TYT TURKCE",
+      "questionNo": 259,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-08.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-08.mp4",
+      "kazanimCode": "TYT TURKCE-K259",
+      "kazanimlar": [
+        "Tyt turkce Soru 259 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_260",
+      "lesson": "TYT TURKCE",
+      "questionNo": 260,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-09.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-09.mp4",
+      "kazanimCode": "TYT TURKCE-K260",
+      "kazanimlar": [
+        "Tyt turkce Soru 260 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_261",
+      "lesson": "TYT TURKCE",
+      "questionNo": 261,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-10.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-10.mp4",
+      "kazanimCode": "TYT TURKCE-K261",
+      "kazanimlar": [
+        "Tyt turkce Soru 261 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_262",
+      "lesson": "TYT TURKCE",
+      "questionNo": 262,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-11.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-11.mp4",
+      "kazanimCode": "TYT TURKCE-K262",
+      "kazanimlar": [
+        "Tyt turkce Soru 262 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_263",
+      "lesson": "TYT TURKCE",
+      "questionNo": 263,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-12.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-12.mp4",
+      "kazanimCode": "TYT TURKCE-K263",
+      "kazanimlar": [
+        "Tyt turkce Soru 263 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_264",
+      "lesson": "TYT TURKCE",
+      "questionNo": 264,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-13.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-13.mp4",
+      "kazanimCode": "TYT TURKCE-K264",
+      "kazanimlar": [
+        "Tyt turkce Soru 264 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_265",
+      "lesson": "TYT TURKCE",
+      "questionNo": 265,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-14.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-14.mp4",
+      "kazanimCode": "TYT TURKCE-K265",
+      "kazanimlar": [
+        "Tyt turkce Soru 265 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_266",
+      "lesson": "TYT TURKCE",
+      "questionNo": 266,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-15.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-15.mp4",
+      "kazanimCode": "TYT TURKCE-K266",
+      "kazanimlar": [
+        "Tyt turkce Soru 266 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_267",
+      "lesson": "TYT TURKCE",
+      "questionNo": 267,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-16.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-16.mp4",
+      "kazanimCode": "TYT TURKCE-K267",
+      "kazanimlar": [
+        "Tyt turkce Soru 267 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_268",
+      "lesson": "TYT TURKCE",
+      "questionNo": 268,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-17.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-17.mp4",
+      "kazanimCode": "TYT TURKCE-K268",
+      "kazanimlar": [
+        "Tyt turkce Soru 268 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_269",
+      "lesson": "TYT TURKCE",
+      "questionNo": 269,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-18.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-18.mp4",
+      "kazanimCode": "TYT TURKCE-K269",
+      "kazanimlar": [
+        "Tyt turkce Soru 269 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_270",
+      "lesson": "TYT TURKCE",
+      "questionNo": 270,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-19.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-19.mp4",
+      "kazanimCode": "TYT TURKCE-K270",
+      "kazanimlar": [
+        "Tyt turkce Soru 270 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_271",
+      "lesson": "TYT TURKCE",
+      "questionNo": 271,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-20.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-20.mp4",
+      "kazanimCode": "TYT TURKCE-K271",
+      "kazanimlar": [
+        "Tyt turkce Soru 271 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_272",
+      "lesson": "TYT TURKCE",
+      "questionNo": 272,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-21.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-21.mp4",
+      "kazanimCode": "TYT TURKCE-K272",
+      "kazanimlar": [
+        "Tyt turkce Soru 272 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_273",
+      "lesson": "TYT TURKCE",
+      "questionNo": 273,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-22.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-22.mp4",
+      "kazanimCode": "TYT TURKCE-K273",
+      "kazanimlar": [
+        "Tyt turkce Soru 273 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_274",
+      "lesson": "TYT TURKCE",
+      "questionNo": 274,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-23.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-23.mp4",
+      "kazanimCode": "TYT TURKCE-K274",
+      "kazanimlar": [
+        "Tyt turkce Soru 274 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_275",
+      "lesson": "TYT TURKCE",
+      "questionNo": 275,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-24.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-24.mp4",
+      "kazanimCode": "TYT TURKCE-K275",
+      "kazanimlar": [
+        "Tyt turkce Soru 275 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_276",
+      "lesson": "TYT TURKCE",
+      "questionNo": 276,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-25.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-25.mp4",
+      "kazanimCode": "TYT TURKCE-K276",
+      "kazanimlar": [
+        "Tyt turkce Soru 276 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_277",
+      "lesson": "TYT TURKCE",
+      "questionNo": 277,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-26.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-26.mp4",
+      "kazanimCode": "TYT TURKCE-K277",
+      "kazanimlar": [
+        "Tyt turkce Soru 277 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_278",
+      "lesson": "TYT TURKCE",
+      "questionNo": 278,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-27.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-27.mp4",
+      "kazanimCode": "TYT TURKCE-K278",
+      "kazanimlar": [
+        "Tyt turkce Soru 278 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_279",
+      "lesson": "TYT TURKCE",
+      "questionNo": 279,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-28.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-28.mp4",
+      "kazanimCode": "TYT TURKCE-K279",
+      "kazanimlar": [
+        "Tyt turkce Soru 279 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_280",
+      "lesson": "TYT TURKCE",
+      "questionNo": 280,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-29.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-29.mp4",
+      "kazanimCode": "TYT TURKCE-K280",
+      "kazanimlar": [
+        "Tyt turkce Soru 280 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_281",
+      "lesson": "TYT TURKCE",
+      "questionNo": 281,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-30.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-30.mp4",
+      "kazanimCode": "TYT TURKCE-K281",
+      "kazanimlar": [
+        "Tyt turkce Soru 281 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_282",
+      "lesson": "TYT TURKCE",
+      "questionNo": 282,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-31.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-31.mp4",
+      "kazanimCode": "TYT TURKCE-K282",
+      "kazanimlar": [
+        "Tyt turkce Soru 282 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_283",
+      "lesson": "TYT TURKCE",
+      "questionNo": 283,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-32.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-32.mp4",
+      "kazanimCode": "TYT TURKCE-K283",
+      "kazanimlar": [
+        "Tyt turkce Soru 283 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_284",
+      "lesson": "TYT TURKCE",
+      "questionNo": 284,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-33.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-33.mp4",
+      "kazanimCode": "TYT TURKCE-K284",
+      "kazanimlar": [
+        "Tyt turkce Soru 284 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_285",
+      "lesson": "TYT TURKCE",
+      "questionNo": 285,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-34.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-34.mp4",
+      "kazanimCode": "TYT TURKCE-K285",
+      "kazanimlar": [
+        "Tyt turkce Soru 285 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_286",
+      "lesson": "TYT TURKCE",
+      "questionNo": 286,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-35.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-35.mp4",
+      "kazanimCode": "TYT TURKCE-K286",
+      "kazanimlar": [
+        "Tyt turkce Soru 286 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_287",
+      "lesson": "TYT TURKCE",
+      "questionNo": 287,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-36.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-36.mp4",
+      "kazanimCode": "TYT TURKCE-K287",
+      "kazanimlar": [
+        "Tyt turkce Soru 287 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_288",
+      "lesson": "TYT TURKCE",
+      "questionNo": 288,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-37.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-37.mp4",
+      "kazanimCode": "TYT TURKCE-K288",
+      "kazanimlar": [
+        "Tyt turkce Soru 288 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_289",
+      "lesson": "TYT TURKCE",
+      "questionNo": 289,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-38.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-38.mp4",
+      "kazanimCode": "TYT TURKCE-K289",
+      "kazanimlar": [
+        "Tyt turkce Soru 289 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_290",
+      "lesson": "TYT TURKCE",
+      "questionNo": 290,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-39.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-39.mp4",
+      "kazanimCode": "TYT TURKCE-K290",
+      "kazanimlar": [
+        "Tyt turkce Soru 290 Video Çözümü"
+      ]
+    },
+    {
+      "id": "denemedeposu_291",
+      "lesson": "TYT TURKCE",
+      "questionNo": 291,
+      "answerKey": "",
+      "videoFileName": "acil-tyt-turkce-tg-2025-40.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/denemedeposu/TYT Turkce/acil-tyt-turkce-tg-2025-40.mp4",
+      "kazanimCode": "TYT TURKCE-K291",
+      "kazanimlar": [
+        "Tyt turkce Soru 291 Video Çözümü"
+      ]
+    }
+  ]
+}

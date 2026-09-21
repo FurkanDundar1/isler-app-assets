@@ -1,0 +1,45 @@
+import os
+import json
+
+base_dir = os.getcwd()
+publisher_prefix = "bilgisarmal"
+github_username = "FurkanDundar1"
+repo_name = "isler-app-assets"
+
+json_data = []
+global_id = 1
+
+# Klasördeki MP4 ve alt klasörleri tara
+for root, dirs, files in os.walk(base_dir):
+    files = sorted(files)
+    for file in files:
+        if file.lower().endswith('.mp4'):
+            # Soru numarasını çek
+            q_num = global_id
+            try:
+                num_part = file.upper().replace('SORU-', '').replace('.MP4', '')
+                q_num = int(num_part)
+            except ValueError:
+                pass
+
+            # Relatif yol hesapla (örn: aytfen/SORU-1.mp4)
+            rel_path = os.path.relpath(os.path.join(root, file), base_dir).replace('\\', '/')
+            folder_name = rel_path.split('/')[0] if '/' in rel_path else "genel"
+
+            item = {
+                "id": f"{publisher_prefix}_{global_id}",
+                "lesson": folder_name.upper(),
+                "questionNo": q_num,
+                "videoFileName": file,
+                "videoUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/bilgisarmal/{rel_path}",
+                "kazanimCode": f"{folder_name.upper()}-K{q_num}",
+                "kazanimlar": [f"{folder_name.capitalize()} Soru {q_num} Video Çözümü"]
+            }
+            json_data.append(item)
+            global_id += 1
+
+output_file = "bilgisarmal_videolar.json"
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(json_data, f, ensure_ascii=False, indent=2)
+
+print(f"\n[BAŞARILI] Toplam {len(json_data)} video işlendi ve '{output_file}' dosyası oluşturuldu!\n")

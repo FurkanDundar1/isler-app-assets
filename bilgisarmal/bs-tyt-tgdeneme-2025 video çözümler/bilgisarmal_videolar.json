@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "bilgisarmal_1",
+    "lesson": "FEN",
+    "questionNo": 1,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-01.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-01.mp4",
+    "kazanimCode": "FEN-K1",
+    "kazanimlar": [
+      "Fen Soru 1 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_2",
+    "lesson": "FEN",
+    "questionNo": 2,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-02.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-02.mp4",
+    "kazanimCode": "FEN-K2",
+    "kazanimlar": [
+      "Fen Soru 2 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_3",
+    "lesson": "FEN",
+    "questionNo": 3,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-03.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-03.mp4",
+    "kazanimCode": "FEN-K3",
+    "kazanimlar": [
+      "Fen Soru 3 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_4",
+    "lesson": "FEN",
+    "questionNo": 4,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-04.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-04.mp4",
+    "kazanimCode": "FEN-K4",
+    "kazanimlar": [
+      "Fen Soru 4 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_5",
+    "lesson": "FEN",
+    "questionNo": 5,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-05.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-05.mp4",
+    "kazanimCode": "FEN-K5",
+    "kazanimlar": [
+      "Fen Soru 5 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_6",
+    "lesson": "FEN",
+    "questionNo": 6,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-06.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-06.mp4",
+    "kazanimCode": "FEN-K6",
+    "kazanimlar": [
+      "Fen Soru 6 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_7",
+    "lesson": "FEN",
+    "questionNo": 7,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-07.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-07.mp4",
+    "kazanimCode": "FEN-K7",
+    "kazanimlar": [
+      "Fen Soru 7 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_8",
+    "lesson": "FEN",
+    "questionNo": 8,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-08.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-08.mp4",
+    "kazanimCode": "FEN-K8",
+    "kazanimlar": [
+      "Fen Soru 8 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_9",
+    "lesson": "FEN",
+    "questionNo": 9,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-09.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-09.mp4",
+    "kazanimCode": "FEN-K9",
+    "kazanimlar": [
+      "Fen Soru 9 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_10",
+    "lesson": "FEN",
+    "questionNo": 10,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-10.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-10.mp4",
+    "kazanimCode": "FEN-K10",
+    "kazanimlar": [
+      "Fen Soru 10 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_11",
+    "lesson": "FEN",
+    "questionNo": 11,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-11.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-11.mp4",
+    "kazanimCode": "FEN-K11",
+    "kazanimlar": [
+      "Fen Soru 11 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_12",
+    "lesson": "FEN",
+    "questionNo": 12,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-12.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-12.mp4",
+    "kazanimCode": "FEN-K12",
+    "kazanimlar": [
+      "Fen Soru 12 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_13",
+    "lesson": "FEN",
+    "questionNo": 13,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-13.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-13.mp4",
+    "kazanimCode": "FEN-K13",
+    "kazanimlar": [
+      "Fen Soru 13 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_14",
+    "lesson": "FEN",
+    "questionNo": 14,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-14.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-14.mp4",
+    "kazanimCode": "FEN-K14",
+    "kazanimlar": [
+      "Fen Soru 14 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_15",
+    "lesson": "FEN",
+    "questionNo": 15,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-15.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-15.mp4",
+    "kazanimCode": "FEN-K15",
+    "kazanimlar": [
+      "Fen Soru 15 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_16",
+    "lesson": "FEN",
+    "questionNo": 16,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-16.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-16.mp4",
+    "kazanimCode": "FEN-K16",
+    "kazanimlar": [
+      "Fen Soru 16 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_17",
+    "lesson": "FEN",
+    "questionNo": 17,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-17.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-17.mp4",
+    "kazanimCode": "FEN-K17",
+    "kazanimlar": [
+      "Fen Soru 17 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_18",
+    "lesson": "FEN",
+    "questionNo": 18,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-18.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-18.mp4",
+    "kazanimCode": "FEN-K18",
+    "kazanimlar": [
+      "Fen Soru 18 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_19",
+    "lesson": "FEN",
+    "questionNo": 19,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-19.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-19.mp4",
+    "kazanimCode": "FEN-K19",
+    "kazanimlar": [
+      "Fen Soru 19 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_20",
+    "lesson": "FEN",
+    "questionNo": 20,
+    "videoFileName": "bs-tyt-fen-tgdeneme-2025-20.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/fen/bs-tyt-fen-tgdeneme-2025-20.mp4",
+    "kazanimCode": "FEN-K20",
+    "kazanimlar": [
+      "Fen Soru 20 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_21",
+    "lesson": "MATEMATIK",
+    "questionNo": 21,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-01.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-01.mp4",
+    "kazanimCode": "MATEMATIK-K21",
+    "kazanimlar": [
+      "Matematik Soru 21 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_22",
+    "lesson": "MATEMATIK",
+    "questionNo": 22,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-02.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-02.mp4",
+    "kazanimCode": "MATEMATIK-K22",
+    "kazanimlar": [
+      "Matematik Soru 22 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_23",
+    "lesson": "MATEMATIK",
+    "questionNo": 23,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-03.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-03.mp4",
+    "kazanimCode": "MATEMATIK-K23",
+    "kazanimlar": [
+      "Matematik Soru 23 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_24",
+    "lesson": "MATEMATIK",
+    "questionNo": 24,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-04.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-04.mp4",
+    "kazanimCode": "MATEMATIK-K24",
+    "kazanimlar": [
+      "Matematik Soru 24 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_25",
+    "lesson": "MATEMATIK",
+    "questionNo": 25,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-05.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-05.mp4",
+    "kazanimCode": "MATEMATIK-K25",
+    "kazanimlar": [
+      "Matematik Soru 25 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_26",
+    "lesson": "MATEMATIK",
+    "questionNo": 26,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-06.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-06.mp4",
+    "kazanimCode": "MATEMATIK-K26",
+    "kazanimlar": [
+      "Matematik Soru 26 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_27",
+    "lesson": "MATEMATIK",
+    "questionNo": 27,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-07.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-07.mp4",
+    "kazanimCode": "MATEMATIK-K27",
+    "kazanimlar": [
+      "Matematik Soru 27 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_28",
+    "lesson": "MATEMATIK",
+    "questionNo": 28,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-08.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-08.mp4",
+    "kazanimCode": "MATEMATIK-K28",
+    "kazanimlar": [
+      "Matematik Soru 28 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_29",
+    "lesson": "MATEMATIK",
+    "questionNo": 29,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-09.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-09.mp4",
+    "kazanimCode": "MATEMATIK-K29",
+    "kazanimlar": [
+      "Matematik Soru 29 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_30",
+    "lesson": "MATEMATIK",
+    "questionNo": 30,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-10.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-10.mp4",
+    "kazanimCode": "MATEMATIK-K30",
+    "kazanimlar": [
+      "Matematik Soru 30 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_31",
+    "lesson": "MATEMATIK",
+    "questionNo": 31,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-11.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-11.mp4",
+    "kazanimCode": "MATEMATIK-K31",
+    "kazanimlar": [
+      "Matematik Soru 31 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_32",
+    "lesson": "MATEMATIK",
+    "questionNo": 32,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-12.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-12.mp4",
+    "kazanimCode": "MATEMATIK-K32",
+    "kazanimlar": [
+      "Matematik Soru 32 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_33",
+    "lesson": "MATEMATIK",
+    "questionNo": 33,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-13.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-13.mp4",
+    "kazanimCode": "MATEMATIK-K33",
+    "kazanimlar": [
+      "Matematik Soru 33 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_34",
+    "lesson": "MATEMATIK",
+    "questionNo": 34,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-14.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-14.mp4",
+    "kazanimCode": "MATEMATIK-K34",
+    "kazanimlar": [
+      "Matematik Soru 34 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_35",
+    "lesson": "MATEMATIK",
+    "questionNo": 35,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-15.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-15.mp4",
+    "kazanimCode": "MATEMATIK-K35",
+    "kazanimlar": [
+      "Matematik Soru 35 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_36",
+    "lesson": "MATEMATIK",
+    "questionNo": 36,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-16.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-16.mp4",
+    "kazanimCode": "MATEMATIK-K36",
+    "kazanimlar": [
+      "Matematik Soru 36 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_37",
+    "lesson": "MATEMATIK",
+    "questionNo": 37,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-17.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-17.mp4",
+    "kazanimCode": "MATEMATIK-K37",
+    "kazanimlar": [
+      "Matematik Soru 37 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_38",
+    "lesson": "MATEMATIK",
+    "questionNo": 38,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-18.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-18.mp4",
+    "kazanimCode": "MATEMATIK-K38",
+    "kazanimlar": [
+      "Matematik Soru 38 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_39",
+    "lesson": "MATEMATIK",
+    "questionNo": 39,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-19.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-19.mp4",
+    "kazanimCode": "MATEMATIK-K39",
+    "kazanimlar": [
+      "Matematik Soru 39 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_40",
+    "lesson": "MATEMATIK",
+    "questionNo": 40,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-20.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-20.mp4",
+    "kazanimCode": "MATEMATIK-K40",
+    "kazanimlar": [
+      "Matematik Soru 40 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_41",
+    "lesson": "MATEMATIK",
+    "questionNo": 41,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-21.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-21.mp4",
+    "kazanimCode": "MATEMATIK-K41",
+    "kazanimlar": [
+      "Matematik Soru 41 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_42",
+    "lesson": "MATEMATIK",
+    "questionNo": 42,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-22.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-22.mp4",
+    "kazanimCode": "MATEMATIK-K42",
+    "kazanimlar": [
+      "Matematik Soru 42 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_43",
+    "lesson": "MATEMATIK",
+    "questionNo": 43,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-23.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-23.mp4",
+    "kazanimCode": "MATEMATIK-K43",
+    "kazanimlar": [
+      "Matematik Soru 43 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_44",
+    "lesson": "MATEMATIK",
+    "questionNo": 44,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-24.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-24.mp4",
+    "kazanimCode": "MATEMATIK-K44",
+    "kazanimlar": [
+      "Matematik Soru 44 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_45",
+    "lesson": "MATEMATIK",
+    "questionNo": 45,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-25.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-25.mp4",
+    "kazanimCode": "MATEMATIK-K45",
+    "kazanimlar": [
+      "Matematik Soru 45 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_46",
+    "lesson": "MATEMATIK",
+    "questionNo": 46,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-26.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-26.mp4",
+    "kazanimCode": "MATEMATIK-K46",
+    "kazanimlar": [
+      "Matematik Soru 46 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_47",
+    "lesson": "MATEMATIK",
+    "questionNo": 47,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-27.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-27.mp4",
+    "kazanimCode": "MATEMATIK-K47",
+    "kazanimlar": [
+      "Matematik Soru 47 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_48",
+    "lesson": "MATEMATIK",
+    "questionNo": 48,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-28.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-28.mp4",
+    "kazanimCode": "MATEMATIK-K48",
+    "kazanimlar": [
+      "Matematik Soru 48 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_49",
+    "lesson": "MATEMATIK",
+    "questionNo": 49,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-29.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-29.mp4",
+    "kazanimCode": "MATEMATIK-K49",
+    "kazanimlar": [
+      "Matematik Soru 49 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_50",
+    "lesson": "MATEMATIK",
+    "questionNo": 50,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-30.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-30.mp4",
+    "kazanimCode": "MATEMATIK-K50",
+    "kazanimlar": [
+      "Matematik Soru 50 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_51",
+    "lesson": "MATEMATIK",
+    "questionNo": 51,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-31.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-31.mp4",
+    "kazanimCode": "MATEMATIK-K51",
+    "kazanimlar": [
+      "Matematik Soru 51 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_52",
+    "lesson": "MATEMATIK",
+    "questionNo": 52,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-32.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-32.mp4",
+    "kazanimCode": "MATEMATIK-K52",
+    "kazanimlar": [
+      "Matematik Soru 52 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_53",
+    "lesson": "MATEMATIK",
+    "questionNo": 53,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-33.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-33.mp4",
+    "kazanimCode": "MATEMATIK-K53",
+    "kazanimlar": [
+      "Matematik Soru 53 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_54",
+    "lesson": "MATEMATIK",
+    "questionNo": 54,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-34.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-34.mp4",
+    "kazanimCode": "MATEMATIK-K54",
+    "kazanimlar": [
+      "Matematik Soru 54 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_55",
+    "lesson": "MATEMATIK",
+    "questionNo": 55,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-35.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-35.mp4",
+    "kazanimCode": "MATEMATIK-K55",
+    "kazanimlar": [
+      "Matematik Soru 55 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_56",
+    "lesson": "MATEMATIK",
+    "questionNo": 56,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-36.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-36.mp4",
+    "kazanimCode": "MATEMATIK-K56",
+    "kazanimlar": [
+      "Matematik Soru 56 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_57",
+    "lesson": "MATEMATIK",
+    "questionNo": 57,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-37.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-37.mp4",
+    "kazanimCode": "MATEMATIK-K57",
+    "kazanimlar": [
+      "Matematik Soru 57 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_58",
+    "lesson": "MATEMATIK",
+    "questionNo": 58,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-38.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-38.mp4",
+    "kazanimCode": "MATEMATIK-K58",
+    "kazanimlar": [
+      "Matematik Soru 58 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_59",
+    "lesson": "MATEMATIK",
+    "questionNo": 59,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-39.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-39.mp4",
+    "kazanimCode": "MATEMATIK-K59",
+    "kazanimlar": [
+      "Matematik Soru 59 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_60",
+    "lesson": "MATEMATIK",
+    "questionNo": 60,
+    "videoFileName": "bs-tyt-matematik-tgdeneme-2025-40.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/matematik/bs-tyt-matematik-tgdeneme-2025-40.mp4",
+    "kazanimCode": "MATEMATIK-K60",
+    "kazanimlar": [
+      "Matematik Soru 60 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_61",
+    "lesson": "SOSYAL",
+    "questionNo": 61,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-01.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-01.mp4",
+    "kazanimCode": "SOSYAL-K61",
+    "kazanimlar": [
+      "Sosyal Soru 61 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_62",
+    "lesson": "SOSYAL",
+    "questionNo": 62,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-02.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-02.mp4",
+    "kazanimCode": "SOSYAL-K62",
+    "kazanimlar": [
+      "Sosyal Soru 62 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_63",
+    "lesson": "SOSYAL",
+    "questionNo": 63,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-03.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-03.mp4",
+    "kazanimCode": "SOSYAL-K63",
+    "kazanimlar": [
+      "Sosyal Soru 63 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_64",
+    "lesson": "SOSYAL",
+    "questionNo": 64,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-04.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-04.mp4",
+    "kazanimCode": "SOSYAL-K64",
+    "kazanimlar": [
+      "Sosyal Soru 64 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_65",
+    "lesson": "SOSYAL",
+    "questionNo": 65,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-05.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-05.mp4",
+    "kazanimCode": "SOSYAL-K65",
+    "kazanimlar": [
+      "Sosyal Soru 65 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_66",
+    "lesson": "SOSYAL",
+    "questionNo": 66,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-06.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-06.mp4",
+    "kazanimCode": "SOSYAL-K66",
+    "kazanimlar": [
+      "Sosyal Soru 66 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_67",
+    "lesson": "SOSYAL",
+    "questionNo": 67,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-07.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-07.mp4",
+    "kazanimCode": "SOSYAL-K67",
+    "kazanimlar": [
+      "Sosyal Soru 67 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_68",
+    "lesson": "SOSYAL",
+    "questionNo": 68,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-08.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-08.mp4",
+    "kazanimCode": "SOSYAL-K68",
+    "kazanimlar": [
+      "Sosyal Soru 68 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_69",
+    "lesson": "SOSYAL",
+    "questionNo": 69,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-09.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-09.mp4",
+    "kazanimCode": "SOSYAL-K69",
+    "kazanimlar": [
+      "Sosyal Soru 69 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_70",
+    "lesson": "SOSYAL",
+    "questionNo": 70,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-10.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-10.mp4",
+    "kazanimCode": "SOSYAL-K70",
+    "kazanimlar": [
+      "Sosyal Soru 70 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_71",
+    "lesson": "SOSYAL",
+    "questionNo": 71,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-11.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-11.mp4",
+    "kazanimCode": "SOSYAL-K71",
+    "kazanimlar": [
+      "Sosyal Soru 71 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_72",
+    "lesson": "SOSYAL",
+    "questionNo": 72,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-12.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-12.mp4",
+    "kazanimCode": "SOSYAL-K72",
+    "kazanimlar": [
+      "Sosyal Soru 72 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_73",
+    "lesson": "SOSYAL",
+    "questionNo": 73,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-13.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-13.mp4",
+    "kazanimCode": "SOSYAL-K73",
+    "kazanimlar": [
+      "Sosyal Soru 73 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_74",
+    "lesson": "SOSYAL",
+    "questionNo": 74,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-14.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-14.mp4",
+    "kazanimCode": "SOSYAL-K74",
+    "kazanimlar": [
+      "Sosyal Soru 74 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_75",
+    "lesson": "SOSYAL",
+    "questionNo": 75,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-15.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-15.mp4",
+    "kazanimCode": "SOSYAL-K75",
+    "kazanimlar": [
+      "Sosyal Soru 75 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_76",
+    "lesson": "SOSYAL",
+    "questionNo": 76,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-16.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-16.mp4",
+    "kazanimCode": "SOSYAL-K76",
+    "kazanimlar": [
+      "Sosyal Soru 76 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_77",
+    "lesson": "SOSYAL",
+    "questionNo": 77,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-17.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-17.mp4",
+    "kazanimCode": "SOSYAL-K77",
+    "kazanimlar": [
+      "Sosyal Soru 77 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_78",
+    "lesson": "SOSYAL",
+    "questionNo": 78,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-18.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-18.mp4",
+    "kazanimCode": "SOSYAL-K78",
+    "kazanimlar": [
+      "Sosyal Soru 78 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_79",
+    "lesson": "SOSYAL",
+    "questionNo": 79,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-19.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-19.mp4",
+    "kazanimCode": "SOSYAL-K79",
+    "kazanimlar": [
+      "Sosyal Soru 79 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_80",
+    "lesson": "SOSYAL",
+    "questionNo": 80,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-20.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-20.mp4",
+    "kazanimCode": "SOSYAL-K80",
+    "kazanimlar": [
+      "Sosyal Soru 80 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_81",
+    "lesson": "SOSYAL",
+    "questionNo": 81,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-21.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-21.mp4",
+    "kazanimCode": "SOSYAL-K81",
+    "kazanimlar": [
+      "Sosyal Soru 81 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_82",
+    "lesson": "SOSYAL",
+    "questionNo": 82,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-22.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-22.mp4",
+    "kazanimCode": "SOSYAL-K82",
+    "kazanimlar": [
+      "Sosyal Soru 82 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_83",
+    "lesson": "SOSYAL",
+    "questionNo": 83,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-23.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-23.mp4",
+    "kazanimCode": "SOSYAL-K83",
+    "kazanimlar": [
+      "Sosyal Soru 83 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_84",
+    "lesson": "SOSYAL",
+    "questionNo": 84,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-24.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-24.mp4",
+    "kazanimCode": "SOSYAL-K84",
+    "kazanimlar": [
+      "Sosyal Soru 84 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_85",
+    "lesson": "SOSYAL",
+    "questionNo": 85,
+    "videoFileName": "bs-tyt-sosyal-tgdeneme-2025-25.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/sosyal/bs-tyt-sosyal-tgdeneme-2025-25.mp4",
+    "kazanimCode": "SOSYAL-K85",
+    "kazanimlar": [
+      "Sosyal Soru 85 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_86",
+    "lesson": "TURKCE",
+    "questionNo": 86,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-01.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-01.mp4",
+    "kazanimCode": "TURKCE-K86",
+    "kazanimlar": [
+      "Turkce Soru 86 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_87",
+    "lesson": "TURKCE",
+    "questionNo": 87,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-02.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-02.mp4",
+    "kazanimCode": "TURKCE-K87",
+    "kazanimlar": [
+      "Turkce Soru 87 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_88",
+    "lesson": "TURKCE",
+    "questionNo": 88,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-03.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-03.mp4",
+    "kazanimCode": "TURKCE-K88",
+    "kazanimlar": [
+      "Turkce Soru 88 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_89",
+    "lesson": "TURKCE",
+    "questionNo": 89,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-04.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-04.mp4",
+    "kazanimCode": "TURKCE-K89",
+    "kazanimlar": [
+      "Turkce Soru 89 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_90",
+    "lesson": "TURKCE",
+    "questionNo": 90,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-05.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-05.mp4",
+    "kazanimCode": "TURKCE-K90",
+    "kazanimlar": [
+      "Turkce Soru 90 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_91",
+    "lesson": "TURKCE",
+    "questionNo": 91,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-06.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-06.mp4",
+    "kazanimCode": "TURKCE-K91",
+    "kazanimlar": [
+      "Turkce Soru 91 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_92",
+    "lesson": "TURKCE",
+    "questionNo": 92,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-07.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-07.mp4",
+    "kazanimCode": "TURKCE-K92",
+    "kazanimlar": [
+      "Turkce Soru 92 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_93",
+    "lesson": "TURKCE",
+    "questionNo": 93,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-08.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-08.mp4",
+    "kazanimCode": "TURKCE-K93",
+    "kazanimlar": [
+      "Turkce Soru 93 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_94",
+    "lesson": "TURKCE",
+    "questionNo": 94,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-09.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-09.mp4",
+    "kazanimCode": "TURKCE-K94",
+    "kazanimlar": [
+      "Turkce Soru 94 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_95",
+    "lesson": "TURKCE",
+    "questionNo": 95,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-10.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-10.mp4",
+    "kazanimCode": "TURKCE-K95",
+    "kazanimlar": [
+      "Turkce Soru 95 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_96",
+    "lesson": "TURKCE",
+    "questionNo": 96,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-11.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-11.mp4",
+    "kazanimCode": "TURKCE-K96",
+    "kazanimlar": [
+      "Turkce Soru 96 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_97",
+    "lesson": "TURKCE",
+    "questionNo": 97,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-12.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-12.mp4",
+    "kazanimCode": "TURKCE-K97",
+    "kazanimlar": [
+      "Turkce Soru 97 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_98",
+    "lesson": "TURKCE",
+    "questionNo": 98,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-13.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-13.mp4",
+    "kazanimCode": "TURKCE-K98",
+    "kazanimlar": [
+      "Turkce Soru 98 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_99",
+    "lesson": "TURKCE",
+    "questionNo": 99,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-14.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-14.mp4",
+    "kazanimCode": "TURKCE-K99",
+    "kazanimlar": [
+      "Turkce Soru 99 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_100",
+    "lesson": "TURKCE",
+    "questionNo": 100,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-15.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-15.mp4",
+    "kazanimCode": "TURKCE-K100",
+    "kazanimlar": [
+      "Turkce Soru 100 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_101",
+    "lesson": "TURKCE",
+    "questionNo": 101,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-16.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-16.mp4",
+    "kazanimCode": "TURKCE-K101",
+    "kazanimlar": [
+      "Turkce Soru 101 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_102",
+    "lesson": "TURKCE",
+    "questionNo": 102,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-17.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-17.mp4",
+    "kazanimCode": "TURKCE-K102",
+    "kazanimlar": [
+      "Turkce Soru 102 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_103",
+    "lesson": "TURKCE",
+    "questionNo": 103,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-18.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-18.mp4",
+    "kazanimCode": "TURKCE-K103",
+    "kazanimlar": [
+      "Turkce Soru 103 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_104",
+    "lesson": "TURKCE",
+    "questionNo": 104,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-19.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-19.mp4",
+    "kazanimCode": "TURKCE-K104",
+    "kazanimlar": [
+      "Turkce Soru 104 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_105",
+    "lesson": "TURKCE",
+    "questionNo": 105,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-20.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-20.mp4",
+    "kazanimCode": "TURKCE-K105",
+    "kazanimlar": [
+      "Turkce Soru 105 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_106",
+    "lesson": "TURKCE",
+    "questionNo": 106,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-21.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-21.mp4",
+    "kazanimCode": "TURKCE-K106",
+    "kazanimlar": [
+      "Turkce Soru 106 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_107",
+    "lesson": "TURKCE",
+    "questionNo": 107,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-22.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-22.mp4",
+    "kazanimCode": "TURKCE-K107",
+    "kazanimlar": [
+      "Turkce Soru 107 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_108",
+    "lesson": "TURKCE",
+    "questionNo": 108,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-23.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-23.mp4",
+    "kazanimCode": "TURKCE-K108",
+    "kazanimlar": [
+      "Turkce Soru 108 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_109",
+    "lesson": "TURKCE",
+    "questionNo": 109,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-24.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-24.mp4",
+    "kazanimCode": "TURKCE-K109",
+    "kazanimlar": [
+      "Turkce Soru 109 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_110",
+    "lesson": "TURKCE",
+    "questionNo": 110,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-25.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-25.mp4",
+    "kazanimCode": "TURKCE-K110",
+    "kazanimlar": [
+      "Turkce Soru 110 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_111",
+    "lesson": "TURKCE",
+    "questionNo": 111,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-26.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-26.mp4",
+    "kazanimCode": "TURKCE-K111",
+    "kazanimlar": [
+      "Turkce Soru 111 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_112",
+    "lesson": "TURKCE",
+    "questionNo": 112,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-27.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-27.mp4",
+    "kazanimCode": "TURKCE-K112",
+    "kazanimlar": [
+      "Turkce Soru 112 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_113",
+    "lesson": "TURKCE",
+    "questionNo": 113,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-28.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-28.mp4",
+    "kazanimCode": "TURKCE-K113",
+    "kazanimlar": [
+      "Turkce Soru 113 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_114",
+    "lesson": "TURKCE",
+    "questionNo": 114,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-29.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-29.mp4",
+    "kazanimCode": "TURKCE-K114",
+    "kazanimlar": [
+      "Turkce Soru 114 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_115",
+    "lesson": "TURKCE",
+    "questionNo": 115,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-30.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-30.mp4",
+    "kazanimCode": "TURKCE-K115",
+    "kazanimlar": [
+      "Turkce Soru 115 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_116",
+    "lesson": "TURKCE",
+    "questionNo": 116,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-31.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-31.mp4",
+    "kazanimCode": "TURKCE-K116",
+    "kazanimlar": [
+      "Turkce Soru 116 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_117",
+    "lesson": "TURKCE",
+    "questionNo": 117,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-32.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-32.mp4",
+    "kazanimCode": "TURKCE-K117",
+    "kazanimlar": [
+      "Turkce Soru 117 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_118",
+    "lesson": "TURKCE",
+    "questionNo": 118,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-33.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-33.mp4",
+    "kazanimCode": "TURKCE-K118",
+    "kazanimlar": [
+      "Turkce Soru 118 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_119",
+    "lesson": "TURKCE",
+    "questionNo": 119,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-34.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-34.mp4",
+    "kazanimCode": "TURKCE-K119",
+    "kazanimlar": [
+      "Turkce Soru 119 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_120",
+    "lesson": "TURKCE",
+    "questionNo": 120,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-35.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-35.mp4",
+    "kazanimCode": "TURKCE-K120",
+    "kazanimlar": [
+      "Turkce Soru 120 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_121",
+    "lesson": "TURKCE",
+    "questionNo": 121,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-36.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-36.mp4",
+    "kazanimCode": "TURKCE-K121",
+    "kazanimlar": [
+      "Turkce Soru 121 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_122",
+    "lesson": "TURKCE",
+    "questionNo": 122,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-37.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-37.mp4",
+    "kazanimCode": "TURKCE-K122",
+    "kazanimlar": [
+      "Turkce Soru 122 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_123",
+    "lesson": "TURKCE",
+    "questionNo": 123,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-38.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-38.mp4",
+    "kazanimCode": "TURKCE-K123",
+    "kazanimlar": [
+      "Turkce Soru 123 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_124",
+    "lesson": "TURKCE",
+    "questionNo": 124,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-39.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-39.mp4",
+    "kazanimCode": "TURKCE-K124",
+    "kazanimlar": [
+      "Turkce Soru 124 Video Çözümü"
+    ]
+  },
+  {
+    "id": "bilgisarmal_125",
+    "lesson": "TURKCE",
+    "questionNo": 125,
+    "videoFileName": "bs-tyt-turkce-tgdeneme-2025-40.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/FurkanDundar1/isler-app-assets/main/bilgisarmal/turkce/bs-tyt-turkce-tgdeneme-2025-40.mp4",
+    "kazanimCode": "TURKCE-K125",
+    "kazanimlar": [
+      "Turkce Soru 125 Video Çözümü"
+    ]
+  }
+]
