@@ -6,6 +6,9 @@ publisher_prefix = "bilgisarmal"
 github_username = "FurkanDundar1"
 repo_name = "isler-app-assets"
 
+# GitHub deposundaki bilgisarmal alt klasör yolu
+sub_folder = "bilgisarmal/bs-tyt-tgdeneme-vdoczm"
+
 json_data = []
 global_id = 1
 
@@ -22,7 +25,7 @@ for root, dirs, files in os.walk(base_dir):
             except ValueError:
                 pass
 
-            # Relatif yol hesapla (örn: aytfen/SORU-1.mp4)
+            # Relatif yol hesapla (örn: fen/bs-tyt-fen-tgdeneme-2025-01.mp4)
             rel_path = os.path.relpath(os.path.join(root, file), base_dir).replace('\\', '/')
             folder_name = rel_path.split('/')[0] if '/' in rel_path else "genel"
 
@@ -31,8 +34,8 @@ for root, dirs, files in os.walk(base_dir):
                 "lesson": folder_name.upper(),
                 "questionNo": q_num,
                 "videoFileName": file,
-                # Link yapısı jsDelivr CDN olarak güncellendi:
-                "videoUrl": f"https://cdn.jsdelivr.net/gh/{github_username}/{repo_name}@main/{publisher_prefix}/{rel_path}",
+                # URL yapısına sub_folder eklendi:
+                "videoUrl": f"https://cdn.jsdelivr.net/gh/{github_username}/{repo_name}@main/{sub_folder}/{rel_path}",
                 "kazanimCode": f"{folder_name.upper()}-K{q_num}",
                 "kazanimlar": [f"{folder_name.capitalize()} Soru {q_num} Video Çözümü"]
             }
