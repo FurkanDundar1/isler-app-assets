@@ -31,14 +31,15 @@ for folder_name in sorted(os.listdir(base_dir)):
                     "lesson": folder_name.upper(),
                     "questionNo": q_num,
                     "videoFileName": file,
-                    "videoUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/alantyt/{folder_name}/{file}",
+                    # CDN bağlantısı jsDelivr olarak güncellendi:
+                    "videoUrl": f"https://cdn.jsdelivr.net/gh/{github_username}/{repo_name}@main/alantyt/{folder_name}/{file}",
                     "kazanimCode": f"{folder_name.upper()}-K{q_num}",
                     "kazanimlar": [f"{folder_name.capitalize()} Soru {q_num} Video Çözümü"]
                 }
                 json_data.append(item)
                 global_id += 1
 
-output_file = "alan_videolar.json"
+output_file = f"{publisher_prefix}_videolar.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(json_data, f, ensure_ascii=False, indent=2)
 

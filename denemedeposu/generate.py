@@ -1,5 +1,6 @@
 import os
 import json
+import urllib.parse  # URL kodlama kütüphanesi eklendi
 import pandas as pd
 
 base_dir = os.getcwd()
@@ -15,12 +16,13 @@ answer_keys = {}
 for root, dirs, files in os.walk(base_dir):
     for file in files:
         rel_path = os.path.relpath(os.path.join(root, file), base_dir).replace('\\', '/')
+        encoded_pdf_path = urllib.parse.quote(rel_path)  # PDF URL'leri için kodlama yapıldı
         
         # PDF Kitapçıklarını Topla
         if file.lower().endswith('.pdf'):
             pdf_files.append({
                 "fileName": file,
-                "pdfUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/{publisher_prefix}/{rel_path}"
+                "pdfUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/{publisher_prefix}/{encoded_pdf_path}"
             })
             
         # Excel Cevap Anahtarı / Kazanım Tablolarını Oku
@@ -57,6 +59,8 @@ for root, dirs, files in os.walk(base_dir):
                 pass
 
             rel_path = os.path.relpath(os.path.join(root, file), base_dir).replace('\\', '/')
+            encoded_video_path = urllib.parse.quote(rel_path)  # Video URL'leri için kodlama yapıldı
+            
             folder_name = rel_path.split('/')[0] if '/' in rel_path else "genel"
 
             # Excel'den gelen kazanım ve cevap bilgisi kontrolü
@@ -71,7 +75,7 @@ for root, dirs, files in os.walk(base_dir):
                 "questionNo": q_num,
                 "answerKey": answer_val,  # Excel'den gelen cevap (Örn: "C")
                 "videoFileName": file,
-                "videoUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/{publisher_prefix}/{rel_path}",
+                "videoUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/{publisher_prefix}/{encoded_video_path}",
                 "kazanimCode": f"{folder_name.upper()}-K{q_num}",
                 "kazanimlar": [kazanim_val] if isinstance(kazanim_val, str) else kazanim_val
             }

@@ -31,14 +31,15 @@ for root, dirs, files in os.walk(base_dir):
                 "lesson": folder_name.upper(),
                 "questionNo": q_num,
                 "videoFileName": file,
-                "videoUrl": f"https://raw.githubusercontent.com/{github_username}/{repo_name}/main/bilgisarmal/{rel_path}",
+                # Link yapısı jsDelivr CDN olarak güncellendi:
+                "videoUrl": f"https://cdn.jsdelivr.net/gh/{github_username}/{repo_name}@main/{publisher_prefix}/{rel_path}",
                 "kazanimCode": f"{folder_name.upper()}-K{q_num}",
                 "kazanimlar": [f"{folder_name.capitalize()} Soru {q_num} Video Çözümü"]
             }
             json_data.append(item)
             global_id += 1
 
-output_file = "bilgisarmal_videolar.json"
+output_file = f"{publisher_prefix}_videolar.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(json_data, f, ensure_ascii=False, indent=2)
 
